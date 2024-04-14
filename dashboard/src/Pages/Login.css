@@ -1,20 +1,35 @@
-.login-modal {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .login-container {
-    background: white; /* White background for the login container */
-    padding: 20px;
-    border-radius: 8px;
-    max-width: 400px;
-    width: 100%;
-  }
-  
+.loginBody {
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+
+.login-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.button-container {
+  margin-top: 20px;
+
+}
+
+.custom-modal {
+  background-color: white;
+}

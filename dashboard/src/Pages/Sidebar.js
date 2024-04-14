@@ -11,7 +11,7 @@ function Sidebar() {
     <div className="sidebar">
       <ul>
         <li>
-          <Link to="/">
+          <Link to="/dashboard">
             <HomeIcon /> Home
           </Link>
         </li>

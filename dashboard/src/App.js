@@ -19,7 +19,7 @@ function App() {
           <Route path="/viewstudent" element={<ViewStudent />} />
           <Route path="/viewusers" element={<ViewUsers />} />
           <Route path="/managestudent" element={<ManageStudent />} />
-          <Route path="*" element={<Login />} />
+          <Route path="/*" element={<Login />} />
         </Routes>
       </div>
     </Router>
