@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "34599191",
+    "First": "Erien Miko",
+    "Last": "Bambalan",
+    "Middle": "M.",
+    "Course": "BSIT",
+    "Year": "3"
+  },
+  {
+    "ID": "12345678",
+    "First": "Test FN",
+    "Last": "Test LN",
+    "Middle": "Test M",
+    "Course": "COURSE",
+    "Year": "5"
+  },
+  {
+    "ID": "11111111",
+    "First": "sss",
+    "Last": "sss",
+    "Middle": "sss",
+    "Course": "sss",
+    "Year": "1"
+  },
+  {
+    "ID": "22222222",
+    "First": "zzzzzzzzzz",
+    "Last": "zzzzz",
+    "Middle": "zzzzz",
+    "Course": "zzzzzz",
+    "Year": "1"
+  },
+  {
+    "ID": "33333333",
+    "First": "vss",
+    "Last": "vss",
+    "Middle": "vss",
+    "Course": "vss",
+    "Year": "1"
+  },
+  {
+    "ID": "11223344",
+    "First": "s",
+    "Last": "s",
+    "Middle": "s",
+    "Course": "s",
+    "Year": "1"
+  }
+]

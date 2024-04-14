@@ -1,0 +1,9 @@
+.dashboard-container {
+    text-align: right;
+    font-size: 30px;
+    position: static;
+    height: 100%;
+    width: 60%;
+    margin-right: -9%;
+  }
+  
